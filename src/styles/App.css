@@ -1,0 +1,22 @@
+div.app {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.app main {
+    background-color: #eeeeee;
+    flex-grow: 1;
+}
+
+.app header {
+    height: 50px;
+}
+
+div.closeTableContainer {
+    text-align: right;
+}
+
+.closeTableContainer svg:hover {
+    cursor: pointer;
+}

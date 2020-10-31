@@ -1,0 +1,23 @@
+button.addPlayerButton {
+    margin-top: 25px;
+    background-color: #393e46;
+}
+
+button.addPlayerButton:hover {
+    background-color: #4a4e55;
+}
+
+button.plusButton {
+    color: white;
+    background-color: #00adb5;
+}
+
+button.plusButton:hover {
+    background-color: #00bac4;
+}
+
+button.minusButton {
+    color: #00adb5;
+    background-color: #e7e7e7;
+    margin-right: 2px;
+}
